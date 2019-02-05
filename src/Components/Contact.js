@@ -46,12 +46,12 @@ class Contact extends Component {
 
                   <div>
 						   <label htmlFor="contactEmail">Email <span className="required">*</span></label>
-						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>/>
+						   <input type="text" defaultValue="" size="35" id="contactEmail" name="contactEmail" onChange={this.handleChange}/>
                   </div>
 
                   <div>
 						   <label htmlFor="contactSubject">Subject</label>
-						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>/>
+						   <input type="text" defaultValue="" size="35" id="contactSubject" name="contactSubject" onChange={this.handleChange}/>
                   </div>
 
                   <div>
@@ -75,7 +75,7 @@ class Contact extends Component {
            </div>
 
 
-            <aside className="four columns footer-widgets">
+            {/* <aside className="four columns footer-widgets">
                <div className="widget widget_contact">
 
 					   <h4>Address and Phone</h4>
@@ -108,7 +108,7 @@ class Contact extends Component {
                      </li>
                   </ul>
 		         </div>
-            </aside>
+            </aside> */}
       </div>
    </section>
     );

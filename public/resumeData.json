@@ -1,25 +1,25 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "name":"Dominique Nguyen",
+    "occupation":"Software Developer",
+    "description":"with a passion for learning and problem solving. Being involved in all facets of development has been quite rewarding, simultaneously improving both my logical thought process and creative drive. It is truly amazing what has been accomplished in modern web development, and I am very excited to contribute whatever I can to keep pushing the envelope.",
+    "image":"profilepic.png",
+    "bio":"Full Stack developer, building awesome websites and apps.",
+    "contactmessage":"Let's Connect!",
+    "email": "Domnguyen@gmail.com",
+    "phone": "714-383-2573",
     "address":{
       "street":"(Your Street)",
-      "city":"(Your City)",
+      "city":"Southern California",
       "state":"(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload":"http://timbakerdev.com",
+    "website": "http://developerdom.com/",
+    "resumedownload":"http://developerdom.com/",
     "social":[
       {
         "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
+        "url":"http://facebook.com/godomdomdom",
         "className":"fa fa-facebook"
       },
       {
@@ -29,28 +29,23 @@
       },
       {
         "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
+        "url":"https://plus.google.com/u/0/+DomNguyen",
         "className":"fa fa-google-plus"
       },
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/dominique-nguyen-840ba3177",
         "className":"fa fa-linkedin"
       },
       {
         "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
+        "url":"https://www.instagram.com/domperignofficial",
         "className":"fa fa-instagram"
       },
       {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/domnguyen87",
         "className":"fa fa-github"
-      },
-      {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
       }
     ]
   },
@@ -58,31 +53,20 @@
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
+        "school":"University Of California - San Diego",
+        "degree":"B.S. Chemistry",
+        "graduated":"June 2010",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
-      },
-      {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Eleveight",
+        "title":"Software Developer",
+        "years":"October 2018 - Present",
+        "description":"Skill Set: MSSQL, .NET C#, HTML5, Bootstrap, JQuery, Javascript, ReactJS, Visual Studio 2017, Visual Studio Code, SQL Server Management Studio, GIT, TFS "
       }
+      
     ],
     "skills":[
       {
@@ -118,46 +102,22 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Eleveight",
+        "category":"Eleveight is a HIPAA compliant, web-based, case management platform and mobile app that connects clients with jobs, scholarships and opportunities that match their needs, interests and location.",
+        "image":"eleveight.jpg",
+        "url":"http://eleveight.co/"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"If you admire somebody you should go ahead and tell them. People never get the flowers while they could still smell them.",
+        "user":"K.W."
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Your best teacher is your last mistake.",
+        "user":"Ralph Nader"
       }
     ]
   }

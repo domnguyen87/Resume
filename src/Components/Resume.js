@@ -8,7 +8,8 @@ class Resume extends Component {
       var education = this.props.data.education.map(function(education){
         return <div key={education.school}><h3>{education.school}</h3>
         <p className="info">{education.degree} <span>&bull;</span><em className="date">{education.graduated}</em></p>
-        <p>{education.description}</p></div>
+        {/* <p>{education.description}</p> */}
+        </div>
       })
       var work = this.props.data.work.map(function(work){
         return <div key={work.company}><h3>{work.company}</h3>
@@ -53,7 +54,7 @@ class Resume extends Component {
 
 
 
-      <div className="row skill">
+      {/* <div className="row skill">
 
          <div className="three columns header-col">
             <h1><span>Skills</span></h1>
@@ -70,7 +71,7 @@ class Resume extends Component {
 					</ul>
 				</div>
 			</div>
-      </div>
+      </div> */}
    </section>
     );
   }
